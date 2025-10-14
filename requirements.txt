@@ -1,0 +1,7 @@
+# Terminal Chat - Python Dependencies
+# Currently uses only Python standard library
+# No external packages required
+
+# Future dependencies (for planned features):
+# cryptography>=41.0.0  # For encryption implementation
+# pyngrok>=6.0.0        # For built-in ngrok support
