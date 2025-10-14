@@ -1,4 +1,4 @@
-# Terminal Chat - P2P Messenger
+# Promptext - P2P Messenger
 
 A simple peer-to-peer terminal-based chat application for direct communication between two users over the internet.
 
